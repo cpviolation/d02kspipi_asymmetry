@@ -320,7 +320,7 @@ wheels = [
 [[package]]
 name = "d02kspipi-asymmetry"
 version = "0.1.0"
-source = { virtual = "." }
+source = { editable = "." }
 dependencies = [
     { name = "analysis-helpers" },
     { name = "ipykernel" },
