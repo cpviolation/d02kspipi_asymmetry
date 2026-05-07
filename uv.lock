@@ -13,7 +13,7 @@ resolution-markers = [
 [[package]]
 name = "analysis-helpers"
 version = "0.1.0"
-source = { git = "ssh://git@github.com/cpviolation/analysis_helpers.git#b79d3244aeaeb6e1c7e41f12a97ca474e962ed96" }
+source = { git = "ssh://git@github.com/cpviolation/analysis_helpers.git#2a870403fcf158c2e61ffc9550ea91052829cdab" }
 dependencies = [
     { name = "matplotlib" },
     { name = "mplhep" },
